@@ -1,2 +1,2 @@
 'Hello, Git!'
-This is the testbranch
+This is the masterbranch
